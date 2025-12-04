@@ -11,6 +11,19 @@
 ### Structuring Elements
 - The Railway line, River Ndarugu and Njoro Road, play key roles in determining the current structure of Jewathu.
 - River Ndarugu forms the southern boundary, limiting expansion south wards.
-- The road dictates the nature and direction of the centres dveloopment and a means the centre is connected. 
 
-### 
+### Jewathu
+- Jewathu is connected to the rest of Kenya by rail, road and air.
+- The railway is accessible from Njoro termminal,
+- Air trransport is accessible at non functional Njoro Airstrip.
+
+### Water and Sanitation
+- 88% of residents within Jewathu ward rated provision of water very poor.
+- 82% of households in Jewathu have access to improved sanitation.
+- Majority use pit latrines for waste disposal, a health hazard in urban areas.
+
+### Faith
+- Majority of residents in Jewathu are Christians, few others are muslims and from other religious faiths.
+- Signified by several churches and a mosque.
+
+###
