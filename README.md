@@ -21,6 +21,8 @@
 - 88% of residents within Jewathu ward rated provision of water very poor.
 - 82% of households in Jewathu have access to improved sanitation.
 - Majority use pit latrines for waste disposal, a health hazard in urban areas.
+- A consultant survey, states 55% of residents access water through vendors, while
+- 20% harvest to rain water
 
 ### Faith
 - Majority of residents in Jewathu are Christians, few others are muslims and from other religious faiths.
@@ -47,4 +49,14 @@
 
 ### Housing
 - Majority of residents prefer houses built of stone.
-- 
+- While walking around, compounds are fenced ussing Live Fences, wood and others stones.
+- Rent prices range from 3000 for a single rooom, 7000 for a studio and 10000 for a 1 bedroom.
+- Somme houses are noot permmanent and can't withstand extreme climate condictions.
+
+### Transport 
+- 59% residents use matatus for long distance trravel.
+- 35% of residents use motorcycles while 6% prefer walking.
+- There is a bus terminus, however, most mmatatus and lorriess park along the road posing a risk to passsengers and pedestrians
+- A variety of Saccoss ply this route. Saccoos prefer over loading goods and passengers to maximise of profits.
+- Rail cabins can be renovated to facilitate an alternative mode of transport.
+
