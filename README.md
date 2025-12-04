@@ -18,7 +18,7 @@
 - Air trransport is accessible at non functional Njoro Airstrip.
 
 ### Water and Sanitation
-- 88% of residents within Jewathu ward rated provision of water very poor.
+- 88% of residents within Jewathu, rated provision of water as very poor.
 - 82% of households in Jewathu have access to improved sanitation.
 - Majority use pit latrines for waste disposal, a health hazard in urban areas.
 - A consultant survey, states 55% of residents access water through vendors, while
@@ -46,6 +46,7 @@
 - There's poor solid waste  managemment. It's collection, storage, transportation and safe disposal is a major challenge.
 - River Ndarugo is polluted by non-biodegradable humman, industrial and agricultural waste.
 - There's minimal noise pollution. Loud hons from Public Service vehicles and modified bodabodas are less frquently heard.
+- majority of households have acesss to electricity with minimmal home fibre internet connection.
 
 ### Housing
 - Majority of residents prefer houses built of stone.
@@ -60,3 +61,24 @@
 - A variety of Saccoss ply this route. Saccoos prefer over loading goods and passengers to maximise of profits.
 - Rail cabins can be renovated to facilitate an alternative mode of transport.
 
+### Education
+- Education is a means of improving welfare.
+- inequality declines as the average level of education inccreases.
+- The planning area, does not have a public pre-primmary schoool. the only pre-primmary school is attached to Njoro Township Primary
+- There are three primary scchoools within accessible distance. According to the consultant, the planning area has no adequate public primary schhols to serve the existing population.
+- There ar no Secondary schools in the planning area. However, there are several secondary schools surrounding the centres.
+- Njoro Technical institute is the only tertiary institution serving the area..
+
+### Health facilities
+- Njoro Health Centre serves residents of Jewathu, it is within accesible distance.
+- While touring the area, You shouldnt expect a Library, a disaster management facility, librrary or law court.
+
+### Security
+- Jewathu, hosts Njoro Police Station. Acting as the Headquarters for the police division in Njoro.
+- It has a Directorate of Criminal Investigation branch.
+- Adjacent to the Police station, is County Governmment of Nakuru Officces.
+- It hosts Nakuru County Departmment of Environment and Physical planning and Licnsing and Land rates office.
+- The National Governmment offices are adjacent to the County offices.
+- The commpound hosts National Government Constituency Development Fund, and Deputy County Commissioner for Njoro Sub County and Administration Police Office.
+- 
+  
