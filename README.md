@@ -26,4 +26,25 @@
 - Majority of residents in Jewathu are Christians, few others are muslims and from other religious faiths.
 - Signified by several churches and a mosque.
 
-###
+### Land use and Analysis
+- Jewathu sits on 65.9Ha of Public land owned by the County Government of Nakuru,
+- managed by the National Land Commission.
+- There are approximately 573 plots. medium and High density Residential land use formms the highest percentage.
+- The average household size if 4 people.
+- the centre doesn't have an industrial or recreational land use.
+- Educational land use is sslighly above 4 and a half percent of the total land use.
+- Public purpose land use constitutes 10.6% of the land: this entails Police Station, County Offices
+
+### Land Value Estimmates
+- Jewathu's strategic location and proximmity to Nakuru CBD and Egerton University play a major role in land value.
+- As at 2020 plots range from 800,000 to slighly less than 1 mmillion Kenyan Shillings.
+
+### Environmental issues
+- the mmajor environmental issues are degradation of Vegetation cover.
+- There's poor solid waste  managemment. It's collection, storage, transportation and safe disposal is a major challenge.
+- River Ndarugo is polluted by non-biodegradable humman, industrial and agricultural waste.
+- There's minimal noise pollution. Loud hons from Public Service vehicles and modified bodabodas are less frquently heard.
+
+### Housing
+- Majority of residents prefer houses built of stone.
+- 
